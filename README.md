@@ -1,0 +1,1 @@
+# MiniBiblia-Ejemplos-Dev-Cpp-Win32_GUI
