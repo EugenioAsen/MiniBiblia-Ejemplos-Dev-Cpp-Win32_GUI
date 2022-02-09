@@ -6,4 +6,7 @@ Fuentes:
 
 https://docs.microsoft.com/es-es/windows/win32/controls/individual-control-info
 
+http://conclase.com/winapi
+
+
 y otras
